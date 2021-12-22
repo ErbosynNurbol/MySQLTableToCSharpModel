@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "756a2f7c-864e-4a27-9e41-0bb0d2f211c4": {
+      "ProjectGuid": "756a2f7c-864e-4a27-9e41-0bb0d2f211c4",
+      "DisplayName": "MySQLToCSharp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

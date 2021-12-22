@@ -27,3 +27,4 @@ C:\Users\Erbos\Documents\Github\MySQLTableToCSharpModel\MySQLToCSharp\bin\Debug\
 C:\Users\Erbos\Documents\Github\MySQLTableToCSharpModel\MySQLToCSharp\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
 C:\Users\Erbos\Documents\Github\MySQLTableToCSharpModel\MySQLToCSharp\bin\Debug\net6.0-windows\ZstdNet.dll
 C:\Users\Erbos\Documents\Github\MySQLTableToCSharpModel\MySQLToCSharp\obj\Debug\net6.0-windows\MySQLToCSharp.csproj.CopyComplete
+C:\Users\Erbos\Documents\Github\MySQLTableToCSharpModel\MySQLToCSharp\obj\Debug\net6.0-windows\MySQLToCSharp.csproj.AssemblyReference.cache
