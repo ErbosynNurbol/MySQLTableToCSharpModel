@@ -12,12 +12,10 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Erbos\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Erbos\\.nuget\\packages",
+      "C:\\Users\\erbosynnurbol\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\erbosynnurbol\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-      "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages",
-      "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet",
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

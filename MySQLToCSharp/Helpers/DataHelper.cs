@@ -13,7 +13,7 @@ namespace MySQLToCSharp.Helpers
     {
         public static void TableSaveToCSFile()
         {
-            var connectionString = $"Server={Properties.Settings.Default.IP};port={Properties.Settings.Default.Port};database={Properties.Settings.Default.Database};uid={Properties.Settings.Default.UID};pwd={Properties.Settings.Default.Password};charset={Properties.Settings.Default.Charset};";
+             var connectionString = $"Server={Properties.Settings.Default.IP};port={Properties.Settings.Default.Port};database={Properties.Settings.Default.Database};uid={Properties.Settings.Default.UID};pwd={Properties.Settings.Default.Password};charset={Properties.Settings.Default.Charset};";
             var database = new Dictionary<string, List<Column>>();
 
             using (var con = new MySqlConnection(connectionString))

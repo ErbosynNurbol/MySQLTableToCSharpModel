@@ -1,37 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Erbos\\Documents\\Github\\MySQLTableToCSharpModel\\MySQLToCSharp\\MySQLToCSharp.csproj": {}
+    "\\\\Mac\\Home\\Documents\\GitHub\\MySQLTableToCSharpModel\\MySQLToCSharp\\MySQLToCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Erbos\\Documents\\Github\\MySQLTableToCSharpModel\\MySQLToCSharp\\MySQLToCSharp.csproj": {
+    "\\\\Mac\\Home\\Documents\\GitHub\\MySQLTableToCSharpModel\\MySQLToCSharp\\MySQLToCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Erbos\\Documents\\Github\\MySQLTableToCSharpModel\\MySQLToCSharp\\MySQLToCSharp.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Documents\\GitHub\\MySQLTableToCSharpModel\\MySQLToCSharp\\MySQLToCSharp.csproj",
         "projectName": "MySQLToCSharp",
-        "projectPath": "C:\\Users\\Erbos\\Documents\\Github\\MySQLTableToCSharpModel\\MySQLToCSharp\\MySQLToCSharp.csproj",
-        "packagesPath": "C:\\Users\\Erbos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Erbos\\Documents\\Github\\MySQLTableToCSharpModel\\MySQLToCSharp\\obj\\",
+        "projectPath": "\\\\Mac\\Home\\Documents\\GitHub\\MySQLTableToCSharpModel\\MySQLToCSharp\\MySQLToCSharp.csproj",
+        "packagesPath": "C:\\Users\\erbosynnurbol\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Documents\\GitHub\\MySQLTableToCSharpModel\\MySQLToCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Erbos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\erbosynnurbol\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows7.0"
+          "net6.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +48,7 @@
           "dependencies": {
             "MySql.Data": {
               "target": "Package",
-              "version": "[8.0.27, )"
+              "version": "[8.0.32, )"
             }
           },
           "imports": [
@@ -61,7 +57,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -73,7 +70,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
