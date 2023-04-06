@@ -1,5 +1,5 @@
 ﻿MySQLToCSharp
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 \\Mac\Home\Documents\GitHub\MySQLTableToCSharpModel\MySQLToCSharp\App.xaml
 11407045341
 
-12-391507829
+10-1631725427
 210-1322744097
 MainWindow.xaml;
 
-True
+False
 
